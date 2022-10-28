@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(159,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(159,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(160,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(160,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(161,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(161,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(162,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(162,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(191,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(191,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(193,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(193,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(73,6): warning C4101: 'xPos': unreferenced local variable
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(71,8): warning C4101: 'point1': unreferenced local variable
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(73,18): warning C4101: 'zDelta': unreferenced local variable
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(74,17): warning C4101: 'y': unreferenced local variable
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(74,9): warning C4101: 'x': unreferenced local variable
+C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Project1\Source.cpp(73,12): warning C4101: 'yPos': unreferenced local variable
+  Project1.vcxproj -> C:\Users\anhqu\OneDrive\Desktop\New folder\Project1\Debug\Project1.exe
